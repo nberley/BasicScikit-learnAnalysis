@@ -24,10 +24,10 @@ This dataset contains the hourly and daily count of rental bikes between the yea
 
 ## Jupyter Notebook .ipynb
 ### Key Features
-Data Exploration: Understanding the characteristics of the data through various statistical techniques.
-Data Visualization: Visual representations of data trends and relationships.
-Preprocessing: Cleaning and preparing the data for modeling.
-Model Building: Implementing machine learning algorithms to predict bike sharing demand.
+- Data Exploration: Understanding the characteristics of the data through various statistical techniques.
+- Data Visualization: Visual representations of data trends and relationships.
+- Preprocessing: Cleaning and preparing the data for modeling.
+- Model Building: Implementing machine learning algorithms to predict bike sharing demand.
 
 ## Citation
 This dataset was provided by Fanaee-T, Hadi. (2013). "Bike Sharing Dataset." UCI Machine Learning Repository. [DOI:10.24432/C5W894](https://doi.org/10.24432/C5W894).
