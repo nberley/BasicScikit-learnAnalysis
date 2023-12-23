@@ -24,6 +24,7 @@ This dataset contains the hourly and daily count of rental bikes between the yea
 
 ## Jupyter Notebook .ipynb
 ### Key Features
+### This analysis serves as a basic introduction to running a few different algorithms in Scikit-learn
 - Data Exploration: Understanding the characteristics of the data through various statistical techniques.
 - Data Visualization: Visual representations of data trends and relationships.
 - Preprocessing: Cleaning and preparing the data for modeling.
